@@ -52,5 +52,4 @@ The project is strictly categorized to separate physical design from virtual tes
 
 ![Source Hierarchy](docs/Design_Sources.png)
 
----
-**Author:** Aaradhya Kaushal
+
